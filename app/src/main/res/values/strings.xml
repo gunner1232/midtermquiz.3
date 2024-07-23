@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">midtermquiz3</string>
+
+    <string name="et_enter_msg">Enter your message here</string>
+</resources>
